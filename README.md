@@ -1,2 +1,2 @@
-# -kawaii-
+# -KAWAII-
 O.o
