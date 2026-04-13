@@ -13,3 +13,6 @@ def run():
 
 def onMayaDroppedPythonFile(param):
     run() 
+
+
+25121212
