@@ -18,3 +18,9 @@ def onMayaDroppedPythonFile(param):
 25121212
 sdadasdasd
 114514
+dasdad
+sd
+a
+das
+d
+ad
